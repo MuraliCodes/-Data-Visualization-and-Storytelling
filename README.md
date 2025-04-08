@@ -1,13 +1,13 @@
 ![image alt](https://github.com/MuraliCodes/-Data-Visualization-and-Storytelling/blob/344c11bd6450477f075f5e06cbac702c315a39e4/Superstore%20Sales%20Dashboard.png)
 
-📊 
 ## 📊Superstore Sales Dashboard - Power BI
 
 ## Overview
 
 This Power BI dashboard provides in-depth insights into sales,profits and customer segments across various regions.
 
-🏆 ##Problem Statement
+🏆
+## 🏆Problem Statement
 
 ## Superstore needed a data-driven to optimize:
 
