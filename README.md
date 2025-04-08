@@ -30,7 +30,7 @@ The goal was to analyze key matrics such as total sales,customer segments, and p
 
 ✅Outlet Performance - Identifying top-performing locations using map visual.
 
-🛠 ## Tech Stack
+## 🛠 Tech Stack
 
 •	Power BI: For building interactive visualizations.
 
