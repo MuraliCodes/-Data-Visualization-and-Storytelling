@@ -6,7 +6,6 @@
 
 This Power BI dashboard provides in-depth insights into sales,profits and customer segments across various regions.
 
-🏆
 ## 🏆Problem Statement
 
 ## Superstore needed a data-driven to optimize:
@@ -19,7 +18,7 @@ This Power BI dashboard provides in-depth insights into sales,profits and custom
 
 The goal was to analyze key matrics such as total sales,customer segments, and profits patterns to improve business decision-making.
 
-🔍 ## Key Insights from the Dashboard
+## 🔍 Key Insights from the Dashboard
 
 ✅$2.30M Total sales - Undrestanding revenue distribution.
 
